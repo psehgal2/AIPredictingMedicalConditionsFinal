@@ -1,0 +1,28 @@
+after the convolution of the image and pass it into the network
+
+ask for more compute
+
+scheduler 
+get away with 20 epochs
+
+add dropout
+
+lateral inhibition
+
+hinge loss
+
+Neils notes:
+    - make lr scheduler better
+    - run resnet50 and resnet101
+    - do ViT
+
+Cardiomegaly                    resnet18
+Enlarged Cardiomediastinum      resnet18
+Fracture                        resnet18
+Lung Opacity                    resnet18
+No Finding                      resnet18
+Pleural Effusion                resnet18
+Pleural other                   resnet18
+Pneumonia                       resnet18
+Support Devices                 resnet18
+
